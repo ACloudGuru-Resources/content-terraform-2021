@@ -1,1 +1,1 @@
-azurerm_subnet_name = "BoyWonder"
+variable "azurerm_subnet_name" {}
